@@ -1,0 +1,12 @@
+name: gull_shiny_app
+title: gull_shiny_app
+username: yeeso7-wriley-hodge
+account: yeeso7-wriley-hodge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12325901
+bundleId:
+url: https://yeeso7-wriley-hodge.shinyapps.io/gull_shiny_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
